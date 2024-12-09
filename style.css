@@ -474,7 +474,10 @@ p{
           .changeflex{
             display: flex;
             flex-direction: column;
-            padding: 10px;
+            
+          }
+          .changeflex>div{
+            margin: 10px;
           }
             
             .logos-container {
