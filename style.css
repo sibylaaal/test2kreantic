@@ -471,7 +471,10 @@ p{
                 margin: 1rem;
                 display: inline-flex;
             }
-          
+          .changeflex{
+            display: flex;
+            flex-direction: column;
+          }
             
             .logos-container {
                 display: flex;
