@@ -5,7 +5,7 @@
     src: url('./assets/font/HKGrotesk-SemiBold.otf') format('truetype');
   }
   
-  body, h1, h2, h3, h4, h5, h6, p, span, a, button {
+  body, h1, h2, h3, h4, h5, h6, span, a, button {
     font-family: 'HKGrotesk-Bold', sans-serif !important;
   }
   
