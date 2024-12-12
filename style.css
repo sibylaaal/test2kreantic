@@ -341,7 +341,7 @@ p{
 
   .carousel-indicators {
     top: 65%; /* Move indicators below content */
-    left: 48%;z-index: 0;
+    left: 51%;z-index: 0;
     transform: translateX(-50%);
   }
 
@@ -365,7 +365,7 @@ p{
   }
 
   .carousel-control-prev {
-    left: 60%;
+    left: 40%;
     top: 80%;
     height: 60px;
     width: 60px;
