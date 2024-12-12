@@ -365,7 +365,7 @@ p{
   }
 
   .carousel-control-prev {
-    left: 50%;
+    left: 60%;
     top: 80%;
     height: 60px;
     width: 60px;
@@ -373,7 +373,7 @@ p{
   }
 
   .carousel-control-next {
-    right: 50%;
+    right: 40%;
     top: 80%;
     height: 60px;
     width: 60px;
