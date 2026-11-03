@@ -1,0 +1,4 @@
+project:
+  name: telecom-airflow
+postgres:
+  port: 5433

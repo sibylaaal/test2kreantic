@@ -1,0 +1,18 @@
+services:
+  scheduler:
+    networks:
+      - default
+      - telecom-lab
+  triggerer:
+    networks:
+      - default
+      - telecom-lab
+  webserver:
+    networks:
+      - default
+      - telecom-lab
+
+networks:
+  telecom-lab:
+    external: true
+    name: telecom-lab_default
